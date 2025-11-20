@@ -1,101 +1,78 @@
-<!-- Anime Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/1QW8ZPM/anime-banner.png" width="100%" alt="Anime Banner"/>
+  <img src="https://i.ibb.co/SdSmgx5/github-header-example.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">✨ Hi, I'm Regina! ✨</h1>
-<h3 align="center">Frontend Developer • Cybersecurity Enthusiast • Anime Lover</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#7aa2f7">Regina</span></h1>
+<h3 align="center">Frontend Developer • Cybersecurity Enthusiast • Game Lover 🎮</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/7l4IrdNpl5wAAAAC/anime-wave.gif" width="160"/>
+  <em>"Crafting clean interfaces and exploring the world of web security."</em>
 </p>
 
 ---
 
-## About Me
-- ⚔️ Antusias di dunia **Keamanan Siber**, suka hunting XSS, SQLi & CSRF.  
-- 💻 Fokus belajar **React**, **Tailwind**, dan **Java**.  
-- 🎮 Gamer santai.
-- ✨ Motto: "enjoy life while you can.”*
+## 🌟 About Me  
+Saya Regina — seorang Frontend Developer yang sedang fokus mendalami **React**, **TailwindCSS**, dan **Keamanan Web**.  
+Saya suka membangun tampilan yang simple, rapi, dan modern, sambil tetap memahami aspek keamanan di balik aplikasi.
 
 ---
 
-## 🎀 Tech Stack  
-<p align="center">
+## *Who I Am in Tech*
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" />
+💻 **Frontend Focused**  
+Membangun antarmuka yang bersih, responsif, dan nyaman digunakan.
 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" />
+🔐 **Security Aware Developer**  
+Tertarik pada keamanan web dan berupaya menghindari kerentanan umum seperti XSS, CSRF, dan SQL Injection.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" />
+📈 **Always Improving**  
+Selalu belajar dan mengembangkan keterampilan melalui proyek, eksperimen, dan eksplorasi teknologi baru.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" />
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" />
-
-</p>
+## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://media.tenor.com/eoP1e7LBXn4AAAAC/anime-hack.gif" width="200"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" />
+
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-### 🌸 GitHub Stats
+### 🔹 GitHub Stats  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=regina158&show_icons=true&theme=synthwave&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=regina158&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-### 🔥 Streak Stats
+### 🔹 Streak Stats  
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=regina158&theme=synthwave" />
+  <img height="170" src="https://streak-stats.demolab.com?user=regina158&theme=tokyonight" />
 </p>
 
-## 🌸 Top Languages
-
+### 🔹 Top Languages  
 <p align="center">
-  <img src="https://media.tenor.com/nCqNDSSSXbYAAAAC/anime-loading.gif" width="140"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=tokyonight" />
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+---
 
-  <!-- PANEL 1 -->
-  <div>
-    <h3>🌈 Most Used Languages</h3>
-    <img 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=synthwave&border_radius=20&card_width=350" 
-    />
-    <br/>
-    <img src="https://media.tenor.com/zVlV0LjyOa8AAAAC/anime-pixel.gif" width="120"/>
-  </div>
-
-  <!-- PANEL 2 -->
-  <div>
-    <h3>🌸 Language Usage Panel</h3>
-    <img 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api?username=regina158&show_icons=true&theme=synthwave&border_radius=20" 
-    />
-    <br/>
-    <img src="https://media.tenor.com/fS_lhZkPknEAAAAC/anime-girl-glitch.gif" width="120"/>
-  </div>
-
-</div>
-
+## ✨ Connect With Me  
 <p align="center">
-  <img src="https://media.tenor.com/ATwOBY5lTywAAAAC/anime-neon.gif" width="220"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="50"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a>
 </p>
-
 
 ---
 
 <p align="center">
-  <b>✨ Stay cute. Stay strong. Stay curious. ✨</b>
-  <br/>
-  <img src="https://media.tenor.com/xULWBKxJgO8AAAAC/anime-cat-typing.gif" width="160"/>
+  🎉 <strong>Thanks for visiting!</strong><br>
+  <em>“Always learning. Always improving.”</em>
 </p>
