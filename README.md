@@ -18,7 +18,7 @@ Saya suka membangun tampilan yang simple, rapi, dan modern, sambil tetap memaham
 
 ---
 
-## 🎮 Personal Branding — *Who I Am in Tech*
+##  *Who I Am in Tech*
 
 💻 **Frontend Focused**  
 Membangun antarmuka yang bersih, responsif, dan nyaman digunakan.
