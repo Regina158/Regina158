@@ -56,10 +56,42 @@
   <img height="180" src="https://streak-stats.demolab.com?user=regina158&theme=synthwave" />
 </p>
 
-### 🎐 Top Languages
+## 🌸 Top Languages (Anime Neon Edition)
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=synthwave" />
+  <img src="https://media.tenor.com/nCqNDSSSXbYAAAAC/anime-loading.gif" width="140"/>
 </p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- PANEL 1 -->
+  <div>
+    <h3>🌈 Most Used Languages</h3>
+    <img 
+      height="190" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=synthwave&border_radius=20&card_width=350" 
+    />
+    <br/>
+    <img src="https://media.tenor.com/zVlV0LjyOa8AAAAC/anime-pixel.gif" width="120"/>
+  </div>
+
+  <!-- PANEL 2 -->
+  <div>
+    <h3>💫 Language Breakdown Chart</h3>
+    <img 
+      height="190" 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Regina158&theme=synthwave&border_radius=20&layout=compact" 
+    />
+    <br/>
+    <img src="https://media.tenor.com/fS_lhZkPknEAAAAC/anime-girl-glitch.gif" width="120"/>
+  </div>
+
+</div>
+
+<p align="center">
+  <img src="https://media.tenor.com/ATwOBY5lTywAAAAC/anime-neon.gif" width="220"/>
+</p>
+
 
 ---
 
