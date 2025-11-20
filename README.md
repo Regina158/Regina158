@@ -1,74 +1,79 @@
-<!-- Banner -->
+<!-- Anime Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/SdSmgx5/github-header-example.png" alt="GitHub Banner" width="100%">
+  <img src="https://i.ibb.co/1QW8ZPM/anime-banner.png" width="100%" alt="Anime Banner"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#8ab4f8;">Regina</span></h1>
-<h3 align="center">Frontend Developer ⚡ Cybersecurity Enthusiast ⚔️ Game Lover</h3>
+<h1 align="center">✨ Hi, I'm Regina! ✨</h1>
+<h3 align="center">Frontend Developer • Cybersecurity Enthusiast • Anime Lover</h3>
 
----
-
-## 🌟 About Me
-- 🎮 Developer yang suka ngulik **Frontend**, **Keamanan Siber**, dan **Game Development**.  
-- 🚀 Fokus belajar **React**, **Tailwind**, dan **Java**, sambil eksplor kerentanan web (XSS, SQLi, CSRF).  
-- 🔥 Senang bikin project kecil dengan nuansa gaming & cyber vibes.  
-- 💡 Motto: *“Build. Break. Learn.”*
-
----
-
-## 🛠 Tech Stack & Tools
 <p align="center">
-
-<!-- React -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
-
-<!-- Tailwind CSS -->
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/>
-
-<!-- Java -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
-
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-
-<!-- Git -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/>
-
-<!-- Linux -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
-
+  <img src="https://media.tenor.com/7l4IrdNpl5wAAAAC/anime-wave.gif" width="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 💖 About Me
+- 🌸 Cewek yang suka **coding sambil nonton anime**.  
+- ⚔️ Antusias di dunia **Keamanan Siber**, suka hunting XSS, SQLi & CSRF.  
+- 💻 Fokus belajar **React**, **Tailwind**, dan **Java**.  
+- 🎮 Gamer santai yang suka game dengan karakter anime.  
+- ✨ Motto: *“Leveling up IRL and in-game.”*
 
-### ⚡ GitHub Stats  
+---
+
+## 🎀 Tech Stack  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=regina158&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" />
+
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" />
+
 </p>
 
-### 🔥 Streak Stats  
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=regina158&theme=tokyonight" />
-</p>
-
-### 🧩 Top Languages  
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=tokyonight" />
+  <img src="https://media.tenor.com/eoP1e7LBXn4AAAAC/anime-hack.gif" width="200"/>
 </p>
 
 ---
 
-## 🎮 Fun Zone — My Vibe
+## 📊 GitHub Analytics (Anime Style)
+
+### 🌸 GitHub Stats
 <p align="center">
-  <img src="https://i.gifer.com/origin/4c/4c6a0d92ba9ee3b71c0086511ea15a69_w200.gif" width="140"/>
-  <img src="https://i.gifer.com/7VE.gif" width="140"/>
-  <img src="https://i.gifer.com/4V0b.gif" width="140"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=regina158&show_icons=true&theme=synthwave&count_private=true" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=regina158&theme=synthwave" />
+</p>
+
+### 🎐 Top Languages
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=synthwave" />
+</p>
+
+---
+
+## 💫 Anime Vibes
+<p align="center">
+  <img src="https://i.pinimg.com/originals/41/a4/1f/41a41f235a33c4ad8e33c4a2bc4b6752.gif" width="180"/>
+  <img src="https://media.tenor.com/L2GEGZm4G7MAAAAC/neon-anime.gif" width="180"/>
+  <img src="https://media.tenor.com/EaZ8CXt5M98AAAAC/anime-girl.gif" width="180"/>
 </p>
 
 ---
 
 <p align="center">
-✨ <i>Always learning. Always improving. Always curious.</i> ✨  
+  <b>✨ Stay cute. Stay strong. Stay curious. ✨</b>
+  <br/>
+  <img src="https://media.tenor.com/xULWBKxJgO8AAAAC/anime-cat-typing.gif" width="160"/>
 </p>
