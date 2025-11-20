@@ -77,10 +77,10 @@
 
   <!-- PANEL 2 -->
   <div>
-    <h3>💫 Language Breakdown Chart</h3>
+    <h3>🌸 Language Usage Panel</h3>
     <img 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Regina158&theme=synthwave&border_radius=20&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api?username=regina158&show_icons=true&theme=synthwave&border_radius=20" 
     />
     <br/>
     <img src="https://media.tenor.com/fS_lhZkPknEAAAAC/anime-girl-glitch.gif" width="120"/>
