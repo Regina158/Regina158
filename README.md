@@ -13,11 +13,10 @@
 ---
 
 ## 💖 About Me
-- 🌸 Cewek yang suka **coding sambil nonton anime**.  
 - ⚔️ Antusias di dunia **Keamanan Siber**, suka hunting XSS, SQLi & CSRF.  
 - 💻 Fokus belajar **React**, **Tailwind**, dan **Java**.  
-- 🎮 Gamer santai yang suka game dengan karakter anime.  
-- ✨ Motto: *“Leveling up IRL and in-game.”*
+- 🎮 Gamer santai.
+- ✨ Motto: "enjoy life while you can.”*
 
 ---
 
@@ -44,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Analytics (Anime Style)
+## 📊 GitHub Analytics
 
 ### 🌸 GitHub Stats
 <p align="center">
@@ -56,7 +55,7 @@
   <img height="180" src="https://streak-stats.demolab.com?user=regina158&theme=synthwave" />
 </p>
 
-## 🌸 Top Languages (Anime Neon Edition)
+## 🌸 Top Languages
 
 <p align="center">
   <img src="https://media.tenor.com/nCqNDSSSXbYAAAAC/anime-loading.gif" width="140"/>
@@ -92,15 +91,6 @@
   <img src="https://media.tenor.com/ATwOBY5lTywAAAAC/anime-neon.gif" width="220"/>
 </p>
 
-
----
-
-## 💫 Anime Vibes
-<p align="center">
-  <img src="https://i.pinimg.com/originals/41/a4/1f/41a41f235a33c4ad8e33c4a2bc4b6752.gif" width="180"/>
-  <img src="https://media.tenor.com/L2GEGZm4G7MAAAAC/neon-anime.gif" width="180"/>
-  <img src="https://media.tenor.com/EaZ8CXt5M98AAAAC/anime-girl.gif" width="180"/>
-</p>
 
 ---
 
