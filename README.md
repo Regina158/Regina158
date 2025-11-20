@@ -12,7 +12,7 @@
 
 ---
 
-## 💖 About Me
+## About Me
 - ⚔️ Antusias di dunia **Keamanan Siber**, suka hunting XSS, SQLi & CSRF.  
 - 💻 Fokus belajar **React**, **Tailwind**, dan **Java**.  
 - 🎮 Gamer santai.
