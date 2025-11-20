@@ -54,7 +54,7 @@ Selalu belajar dan mengembangkan keterampilan melalui proyek, eksperimen, dan ek
 
 ### 🔹 Streak Stats  
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=regina158&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=regina158&theme=tokyonight" />
 </p>
 
 ### 🔹 Top Languages  
