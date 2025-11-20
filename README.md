@@ -18,7 +18,7 @@ Saya suka membangun tampilan yang simple, rapi, dan modern, sambil tetap memaham
 
 ---
 
-## *Who I Am in Tech*
+## 🎮 Personal Branding — *Who I Am in Tech*
 
 💻 **Frontend Focused**  
 Membangun antarmuka yang bersih, responsif, dan nyaman digunakan.
@@ -52,12 +52,12 @@ Selalu belajar dan mengembangkan keterampilan melalui proyek, eksperimen, dan ek
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=regina158&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-### 🔹 Streak Stats  
+### 🔹 Streak Stats 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=regina158&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=regina158&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔹 Top Languages
+### 🔹 Top Languages  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=tokyonight" />
 </p>
