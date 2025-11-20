@@ -57,7 +57,7 @@ Selalu belajar dan mengembangkan keterampilan melalui proyek, eksperimen, dan ek
   <img height="170" src="https://streak-stats.demolab.com/?user=regina158&theme=tokyonight" />
 </p>
 
-### 🔹 Top Languages  
+### 🔹 Top Languages
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regina158&layout=compact&theme=tokyonight" />
 </p>
